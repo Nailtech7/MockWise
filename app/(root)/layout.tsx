@@ -22,7 +22,7 @@ const Layout = async ({ children }: { children: ReactNode }) => {
 						width={38}
 						height={32}
 					/>
-					<h2 className='text-primary-100'>MockWise</h2>
+					<h2 className='text-primary-100'>PrepWise</h2>
 				</Link>
 			</nav>
 
